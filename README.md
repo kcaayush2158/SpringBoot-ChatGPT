@@ -33,3 +33,7 @@ API Response from CHATGPT:
   }
 }
 </code>
+
+ Running the Application
+
+ <code>http://localhost:8080/chat?prompt=${yourCustomePrompt} </code>
